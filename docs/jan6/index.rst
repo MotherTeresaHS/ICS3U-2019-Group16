@@ -1,5 +1,5 @@
 
-Jan 6
-=====
+January 6th, 2020
+=================
 
-Before we can start coding a video game, we need 
+Start typing here

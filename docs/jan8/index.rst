@@ -1,6 +1,6 @@
 
-Install CircuitPython
-=====================
+January 8th 2020
+================
 
 .. figure:: ./loading_circuitpython.gif
    :width: 480 px

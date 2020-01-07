@@ -1,14 +1,5 @@
-.. _game:
 
-****
-Game
-****
+January 7th 2020
+================
 
-X
-
-.. toctree::
-   :maxdepth: 1
-   :glob:
-
-   Background <background>
-   Space Ship <space_ship>
+Start typing here
