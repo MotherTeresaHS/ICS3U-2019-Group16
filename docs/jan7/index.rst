@@ -3,7 +3,7 @@ January 7th 2020
 ================
 1. I created a index.html file in the root of my Cloud9. This contains the code for "Hello, World!" that I will be using to test my new website once I have connected to Amplify.
 
-.. image:: ./ readthedocs_screenshots / logo.pages
+.. image:: ./readthedocs_screenshots/Screen Shot 2020-01-07 at 9.35.39 PM.png
    :width: 500 px
    :alt: logo
    :align: center
