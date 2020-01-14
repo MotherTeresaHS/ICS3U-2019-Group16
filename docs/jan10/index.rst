@@ -2,4 +2,10 @@
 January 10th, 2020
 ==================
 
-Problems have been around for as long as people have been around. The process of solving a problem is not something new. Using a computer to aid in solving a problem is new. Modern electronic computers have only been around since the Second World War (1939-1945), which might seem like a long time ago to you but in the history of the human race it is a very short time. The purpose of this book is to help you learn to structure your problem solving method, so that you can consistently develop a verifiable solution that will solve a problem and in the process, use the computer to help you more easily and quickly solve that problem.
+1. I created an AWS Cognito user pool called "cognitoPool"
+
+2. I used the Cognito built-in signup URL to add myself as a user through my trinity.armstrong@ocsbstudent.ca email. I successfully recieved a link and was confirmed as a user
+
+3. I confirmed that this new user exists in the Cognito pool
+
+

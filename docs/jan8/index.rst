@@ -9,6 +9,10 @@ January 8th 2020
 
 4. Created a new lambda function called get_user_info
 
+.. code-block:: python
+	:linenos:
+	:caption: get_user_info.py Lambda function
+
 5. copy pasted my code from the hello_world lambda function into my new function
 
 6. Tested my new lambda function by outputting "Hello, Trinity Armstrong"
