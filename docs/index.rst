@@ -18,6 +18,6 @@ In this journal I will be documenting what I have completed each day in regards 
   jan7/index
   jan8/index
   jan9/index
-  game/index
-  menu/index
-  
+  jan10/index
+  jan13/index
+  jan14/index
