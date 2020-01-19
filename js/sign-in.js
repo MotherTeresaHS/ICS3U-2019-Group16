@@ -35,7 +35,7 @@ function signInButton() {
     onSuccess: function (result) {
       var accessToken = result.getAccessToken().getJwtToken();
       console.log(result);
-      
+
       //get user info, to show that you are logged in
             cognitoUser.getUserAttributes(function(err, result) {
                 if (err) {
@@ -46,7 +46,7 @@ function signInButton() {
                 document.getElementById("logged-in").innerHTML = "You are logged in as: " + result[2].getValue();
 
                 // now auto redirect to profile page
-                window.location.replace("./profile.1.html");
+                window.location.replace("./profile.html");
             });
 
     },

@@ -1,4 +1,5 @@
 // JavaScript File
+
 function signOut() {
   //
 
