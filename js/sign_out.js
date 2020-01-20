@@ -30,6 +30,6 @@ function signOut() {
 		return_message = "Already signed-out";
 	}
 	
-	const div_user_info = document.getElementById('sign-out');
+	const div_user_info = document.getElementById('sign_out');
   div_user_info.innerHTML = return_message;
 }
