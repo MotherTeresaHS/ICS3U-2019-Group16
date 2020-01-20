@@ -10,4 +10,4 @@ January 14th, 2020
 
 4. Typed the code for my sign in page in the file "sign-in.html". This runs 2 input boxes for your email address and password and a sign-in button
 
-5. I signed into my confirmed account and it successfully outputted 
+5. I signed into my confirmed account and it successfully outputted "You are logged in as: trinity.armstrong@ocsbstudent.ca"

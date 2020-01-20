@@ -22,3 +22,5 @@ In this journal I will be documenting what I have completed each day in regards 
   jan13/index
   jan14/index
   jan15/index
+  jan16/index
+  jan17/indexx
