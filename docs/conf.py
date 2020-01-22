@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = OverAchiever Website'
+project = u'OverAchiever Website'
 copyright = u'2020, Trinity Armstrong'
 
 # The version info for the project you're documenting, acts as replacement for
