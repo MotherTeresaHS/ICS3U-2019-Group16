@@ -1,3 +1,5 @@
+// JavaScript File
+
 async function update(email_address) {
 	// get the user info from API Gate
 	first_name =  document.getElementById("name").value;
@@ -11,8 +13,8 @@ async function update(email_address) {
 }
 function getUserAttributes() {
 	var data = { 
-		UserPoolId : _config.cognito.userPoolId,
-	ClientId : _config.cognito.clientId
+      UserPoolId : _config.cognito.userPoolId,
+	  ClientId : _config.cognito.clientId
 	};
 	var userPool = new AmazonCognitoIdentity.CognitoUserPool(data);
 	var cognitoUser = userPool.getCurrentUser();
