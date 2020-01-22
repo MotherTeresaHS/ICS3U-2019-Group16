@@ -11,7 +11,25 @@ January 8th 2020
 
 .. code-block:: python
 	:linenos:
-	:caption: get_user_info.py Lambda function
+	:caption: hello_world.py Lambda function
+
+	#!/usr/bin/env python3
+
+	# Created by: Trinity Armstrong
+	# Created on: Jan 2020
+	# This function is the Hello, World! Lambda function
+
+	import json
+
+	def lambda_handler(event, context):
+	    # TODO implement
+	    
+	    return_var = {
+	        'statusCode': 200,
+	        'body': json.dumps('Hello, ' + event['name'])
+	    }
+	    
+	    return return_var
 
 5. copy pasted my code from the hello_world lambda function into my new function
 

@@ -21,10 +21,10 @@ January 7th 2020
 
 3. Finally, I connected this instance to Amplify. I did this by going to my dashboard and opening AWS amplify through the services tab. From there, I was able to create my Amplify instance connected to GitHub and deploy my hello world program. I was able to confirm through the provided URL that my code is up and running correctly.
 
-4. Created a role in IAM called "AWS_Serverless_Web_App" through AWS Identitiy and Access Management (IAM). After creating my database, I will be able to use this role for AWS Lambda to access it.
+4. Created a role in IAM called 'AWS_Serverless_Web_App' through AWS Identitiy and Access Management (IAM). After creating my database, I will be able to use this role for AWS Lambda to access it.
 
 5. I created a lambda function in python that returns "Hello, World!" on AWS
 
 6. I was able to test and confirm that this function was running correctly using test cases
 
-7. using considered test event, I passed my name Trinity Armstrong into the function. It outputted "Hello, Trinity Armstrong".
+7. using configured test event, I passed my name Trinity Armstrong into the function. It outputted "Hello, Trinity Armstrong".
