@@ -3,7 +3,7 @@ My Journal
 ==========
 In this journal I will be documenting what I have completed each day in regards to my serverless web app, OverAchiever. 
 
-.. image:: ./over_acheiver_images/logo.pages.jpg
+.. image:: ./over_acheiver_images/logo.png
    :width: 500 px
    :alt: logo
    :align: center
@@ -23,4 +23,5 @@ In this journal I will be documenting what I have completed each day in regards 
   jan14/index
   jan15/index
   jan16/index
-  jan17/indexx
+  jan17/index
+  jan20/index
