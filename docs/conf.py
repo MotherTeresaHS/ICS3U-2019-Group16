@@ -40,8 +40,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Space Aliens - CircuitPython Game'
-copyright = u'2020, Mr. Coxall'
+project = OverAchiever Website'
+copyright = u'2020, Trinity Armstrong'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -131,7 +131,7 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = "images/space_aliens.png"
+html_logo = "logo.png"
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
@@ -216,8 +216,8 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'toga.tex', u'Space Aliens - CircuitPython Game',
-   u'Mr. Coxall', 'manual'),
+  ('index', 'toga.tex', u'OverAchiever Website',
+   u'Trinity Armstrong', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -246,7 +246,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'CBPS', u'Space Aliens - CircuitPython Game',
+    ('index', 'CBPS', u'OverAchiever Website',
      [u'Mr. Coxall'], 1)
 ]
 
